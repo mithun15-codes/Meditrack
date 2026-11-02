@@ -290,5 +290,3 @@ Built with the **Arduino framework for ESP32**:
 - **Asst. Prof. Aswathy R**
 
 *Department of Computer Science Engineering, St. Thomas College of Engineering and Technology, Chengannur, Kerala, India.*
-#   M e d i t r a c k  
- 
